@@ -1,4 +1,4 @@
-# Tableau Homework - Citi Bike Analytics
+# Citi Bike Analytics
 
 * Age Group Dashboard
 https://public.tableau.com/views/AgeGroupCitiBikeDashboardJan-May2020/AgeGroupDashboard?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link
@@ -7,29 +7,14 @@ https://public.tableau.com/views/BikeStationsCitiBikeDashboardJan-May2020/Statio
 * CitiBike Story (includes analysis)
 https://public.tableau.com/shared/9S6RGXR2M?:display_count=y&:origin=viz_share_link
 
-## Your final submission should include:
+## Analysis
 
-* A link to your Tableau Public workbook that includes: 
-  * 4-10 Total "Phenomenon" Visualizations 
-  * 2 Dashboards
-  * 1 City Official Map
-  * 1 Story 
-* A text or markdown file with your analysis on the phenomenons you uncovered from the data.
+Age Group: 
+ * Riders in the 30s range are the most prevalent followed by the 20s group.
+ * The 30s group shows the longest trip duration, are the heaviest users all days of the week and all months in 2020. 
+ * Ridership among 30s group has fallen durining COVID as commuters are now WFH, but picking back up in May.
 
-## Sharing Your Work
-In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
-
-To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
-
-## Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Attraction
-
-
-Data Boot Camp © 2019. All Rights Reserved.
+Start Stations:
+ * The busiest bike station is the Grove St PATH location. 
+ * It's one the busiest as it's close to a PATH train station. 
+ * The heatmap reflects the Grove station zipcode (07302) in red as the busiest start location.
