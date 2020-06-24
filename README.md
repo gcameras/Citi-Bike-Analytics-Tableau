@@ -4,7 +4,7 @@
 https://public.tableau.com/views/AgeGroupCitiBikeDashboardJan-May2020/AgeGroupDashboard?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link
 * Start Station Dashboard (includes map)
 https://public.tableau.com/views/BikeStationsCitiBikeDashboardJan-May2020/StationsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-* CitiBike Story (includes analysis)
+* CitiBike Story (includes brief analysis)
 https://public.tableau.com/shared/9S6RGXR2M?:display_count=y&:origin=viz_share_link
 
 ## Analysis
