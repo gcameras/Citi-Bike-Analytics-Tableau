@@ -13,8 +13,12 @@ Age Group:
  * Riders in the 30s range are the most prevalent followed by the 20s group.
  * The 30s group shows the longest trip duration, are the heaviest users all days of the week and all months in 2020. 
  * Ridership among 30s group has fallen durining COVID as commuters are now WFH, but picking back up in May.
+ 
+ ![1-dash](Images/age.png)
 
 Start Stations:
  * The busiest bike station is the Grove St PATH location. 
  * It's one the busiest as it's close to a PATH train station. 
  * The heatmap reflects the Grove station zipcode (07302) in red as the busiest start location.
+
+ ![2-dash](Images/stations.png)
