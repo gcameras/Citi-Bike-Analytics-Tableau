@@ -1,11 +1,11 @@
 # Citi Bike Analytics
 
-* Age Group Dashboard
-https://public.tableau.com/views/AgeGroupCitiBikeDashboardJan-May2020/AgeGroupDashboard?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link
-* Start Station Dashboard (includes map)
-https://public.tableau.com/views/BikeStationsCitiBikeDashboardJan-May2020/StationsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
-* CitiBike Story (includes brief analysis)
-https://public.tableau.com/profile/gina.cameras#!/vizhome/Citibike2020AnalysisJan-May2020/CitiBikeStory
+* Age Group Dashboard:
+[dashboard link](https://public.tableau.com/views/AgeGroupCitiBikeDashboardJan-May2020/AgeGroupDashboard?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
+* Start Station Dashboard (includes map):
+[dashboard link](https://public.tableau.com/views/BikeStationsCitiBikeDashboardJan-May2020/StationsDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+* CitiBike Story (includes brief analysis):
+[story link](https://public.tableau.com/profile/gina.cameras#!/vizhome/Citibike2020AnalysisJan-May2020/CitiBikeStory)
 
 ## Analysis
 
@@ -22,3 +22,4 @@ Start Stations:
  * The heatmap reflects the Grove station zipcode (07302) in red as the busiest start location.
 
  ![2-dash](Images/stations.png)
+ 
