@@ -12,7 +12,7 @@ https://public.tableau.com/shared/9S6RGXR2M?:display_count=y&:origin=viz_share_l
 Age Group: 
  * Riders in the 30s range are the most prevalent followed by the 20s group.
  * The 30s group shows the longest trip duration, are the heaviest users all days of the week and all months in 2020. 
- * Ridership among 30s group has fallen durining COVID as commuters are now WFH, but picking back up in May.
+ * Ridership among 30s group has fallen durining COVID as commuters are now working from home, but picking back up in May.
  
  ![1-dash](Images/age.png)
 
